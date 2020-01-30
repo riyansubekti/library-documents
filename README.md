@@ -5,11 +5,11 @@ Langkah - langkah instalasi
 1. Import database dengan nama file library_doc.db (menggunakan db MySQL)
 2. Upload file ke htdocs atau ke file directory php
 3. Ubah file application/config/config.php sesuai konfigurasi website kalian
-	note : contoh code yang harus di ubah dalam config.php
-	a. ubah base_url
+
+note : Contoh code yang harus di ubah dalam config.php. Ubah base_url
 4. Ubah file application/config/database.php sesuai konfigurasi website kalian
-	note : contoh code yang harus di ubah dalam database.php
-	a. ubah hostname, username, password dan nama database
+
+note : Contoh code yang harus di ubah dalam database.php. Ubah hostname, username, password dan nama database
 	
 Instalasi selesai silahkan jalankan websitenya
 
